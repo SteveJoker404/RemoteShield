@@ -28,6 +28,9 @@
 
 </div>
 
+## News
+- **2026/04/18**: Welcome to **RemoteShield**. Code is being organized and released in this repository.
+
 ## Introduction
 
 

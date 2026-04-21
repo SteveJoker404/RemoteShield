@@ -4,11 +4,11 @@
 
 
 
-[Rui Min* (闵锐)]()
+[Rui Min (闵锐)*]()
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
-[Liang Yao* (姚亮)](https://1e12leon.top/) 
+[Liang Yao (姚亮)*](https://1e12leon.top/) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
-[Shiyu Miao* (缪师宇)]()
+[Shiyu Miao (缪师宇)*]()
 <img src="assets/NJU.jpg" alt="Logo" width="15">, &nbsp; &nbsp; 
 [Shengxiang Xu (徐圣翔)](https://xushengxianggg.github.io/) 
 <img src="assets/SEU.png" alt="Logo" width="15">, &nbsp; &nbsp;

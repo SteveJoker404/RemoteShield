@@ -1,0 +1,13 @@
+# Unified environment for RemoteShield training and inference.
+# We pin Transformers to a stable Qwen3-VL-capable release so the same
+# environment works for both:
+#   1) MS-SWIFT-based DPO training (`swift rlhf`)
+#   2) direct Transformers inference in `RemoteShield.py`
+#
+# Note: Transformers 4.57.0 introduced Qwen3-VL support, but that exact PyPI
+# release was later yanked due to setup issues. We therefore pin to 4.57.6.
+
+-r framework.txt
+
+transformers==4.57.6
+deepspeed>=0.14
